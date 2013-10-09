@@ -1,0 +1,19 @@
+{
+	"name": "surfjedi/random-text",
+	"description": "Simple random text snippet module. Who doesn't need one",
+	"type": "silverstripe-module",
+	"keywords": ["silverstripe", "random", "text"],
+	"authors": [
+	{
+		"name": "Lee Blazek",
+		"email": "info@berzerk.co.nz"
+	}
+	],
+
+	"require":
+	{
+		"silverstripe/framework": "3.*",
+		"composer/installers": "*",
+		
+	}
+}
