@@ -15,5 +15,6 @@
 		"silverstripe/framework": "~3.0",
 		"composer/installers": "*"
 		
-	}
+	},
+	"minimum-stability": "dev"
 }
