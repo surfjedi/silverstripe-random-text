@@ -1,4 +1,3 @@
 <?php
-	// define('RANDOM-TEXT', 'random-text');
-	//Add an extention to an object and DataObject
-//SortableDataObject::add_sortable_class('ImageResource');
+
+Object::add_extension('Page_Controller', 'RandomText_controller');
