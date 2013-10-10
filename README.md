@@ -9,7 +9,7 @@ Requires:
 
 
 1. silverstripe 3.*
-2. sortable grid field https://github.com/UndefinedOffset/SortableGridField
+
 
 
 Install:
@@ -36,3 +36,5 @@ Install:
 	or use the include
 
 	<% include RandomText %>
+6. Make sure you dev/build
+7. make sure you ran ?flush=all
